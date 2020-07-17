@@ -361,7 +361,7 @@ To 及物动词 + 宾语 + 状语
    >
    > 一般疑问句，将 has/have 移到句首
    >
-   > - Have she bought a book.
+   > - Has she bought a book.
    >
    > 否定句，has/have 后加 not = hasn't/haven't
    >
