@@ -33,9 +33,15 @@ Also known as `sodium bicarbonate` or `bicarbonate of soda`, baking soda is ofte
 
 3. Because it’s a mild abrasive and deodorizer, baking soda is a gentle, inexpensive cleanser for sinks, tiles, toilet bowls and ovens. And it’s a good ingredient in toothpastes, underarm deodorants and denture soaks. Environmentally safe, baking soda can be used in place of potentially toxic products.
 
+> 因为它是适度的研磨剂和除臭剂，小苏打对于水槽、瓷砖、马桶、烤箱是温和的便宜的清洁剂。并且它是一个好的成分在牙膏，腋下除臭剂中和假牙浸泡。有关环境方面的安全，小苏打可以被用作代替潜在的有毒商品。
+
 4. When added to laundry water—about half a cup—it can improve the effectiveness of detergent. Added to the rinse cycle, it can neutralize odors.
 
+> 当添加到洗衣水中（大约半杯），它可以增加清洁剂的效力。添加到票息周期中，它可以中和气味。
+
 5. Added to bath water, baking soda soothes dry skin, sunburn and itching due to poison ivy or mosquito bites. Or, it can be applied as a paste (one part water to three parts baking soda).
+
+> 添加到洗澡水中，小苏打缓和使皮肤变干。
 
 6. Added to swimming pools, it can balance the pH and help keep water clear.
 
