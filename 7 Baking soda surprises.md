@@ -31,9 +31,9 @@ Also known as `sodium bicarbonate` or `bicarbonate of soda`, baking soda is ofte
 
 > 小苏打在烹饪中有各种各样的用途，不只是烘烤。加一小撮在浸泡豆子的水中加速烹饪过程 并且有助于减少导致`肠胃气胀`的`化合物`。烹制番茄酱或者`冲泡`咖啡时加一小撮减少酸性。它也是一种`有效的`肉类`嫩滑剂`，因为它可以`分解蛋白质`。
 
-3. Because it’s a mild abrasive and deodorizer, baking soda is a gentle, inexpensive cleanser for sinks, tiles, toilet bowls and ovens. And it’s a good ingredient in toothpastes, underarm deodorants and denture soaks. Environmentally safe, baking soda can be used in place of potentially toxic products.
+3. Because it’s a `mild` `abrasive` and `deodorizer`, baking soda is a gentle, inexpensive cleanser for sinks, tiles, toilet bowls and ovens. And it’s a good ingredient in toothpastes, underarm deodorants and denture soaks. Environmentally safe, baking soda can be used in place of potentially toxic products.
 
-> 因为它是适度的研磨剂和除臭剂，小苏打对于水槽、瓷砖、马桶、烤箱是温和的便宜的清洁剂。并且它是一个好的成分在牙膏，腋下除臭剂中和假牙浸泡。有关环境方面的安全，小苏打可以被用作代替潜在的有毒商品。
+> 因为它是`适度的` `研磨剂`和`除臭剂`，小苏打对于水槽、瓷砖、马桶、烤箱是温和的便宜的清洁剂。并且它是一个好的成分在牙膏，腋下除臭剂中和假牙浸泡。有关环境方面的安全，小苏打可以被用作代替潜在的有毒商品。
 
 4. When added to laundry water—about half a cup—it can improve the effectiveness of detergent. Added to the rinse cycle, it can neutralize odors.
 
@@ -41,8 +41,12 @@ Also known as `sodium bicarbonate` or `bicarbonate of soda`, baking soda is ofte
 
 5. Added to bath water, baking soda soothes dry skin, sunburn and itching due to poison ivy or mosquito bites. Or, it can be applied as a paste (one part water to three parts baking soda).
 
-> 添加到洗澡水中，小苏打缓和使皮肤变干。
+> 小苏打添加到洗澡水中，缓和皮肤干燥，晒伤和因常青藤毒或蚊子叮咬引起的瘙痒。
 
 6. Added to swimming pools, it can balance the pH and help keep water clear.
 
-7. Sodium bicarbonate is an effective antacid, but is not recommended because it’s so high in sodium: 1,250 milligrams per teaspoon, and 1,100 milligrams in two tabletsof Alka-Seltzer. And it may cause acid rebound effect, in which case you end up with worse heartburn. And by the way: Some websites recommend taking sodium bicarbonate to bolster or restore your body’s acid/alkaline (pH) balance. This is nonsensical advice.
+> 添加到游泳池中，它可以平衡 PH 并帮助保持水的清洁
+
+7. Sodium bicarbonate is an effective antacid, but is not recommended because it’s so high in sodium: 1,250 milligrams per teaspoon, and 1,100 milligrams in two tablets of Alka-Seltzer. And it may cause acid rebound effect, in which case you end up with worse heartburn. And by the way: Some websites recommend taking sodium bicarbonate to bolster or restore your body’s acid/alkaline (pH) balance. This is nonsensical advice.
+
+> 碳酸氢钠（小苏打）是一种有效的抗酸剂，但是不被推荐因为它钠含量太高了：1250 毫克没勺，和两片我可阿苏 1100 毫克。并且它可能引起酸反弹效应，在那种情况下，你最终更糟的胃灼烧。顺便提一下：一些网站推荐拿碳酸氢钠去巩固或恢复你的身体的酸碱平衡。这是荒唐的建议。
